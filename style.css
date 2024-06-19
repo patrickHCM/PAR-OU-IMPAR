@@ -1,0 +1,45 @@
+.pessoa{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    border: 5px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+    .pessoa img {
+        width: 250px;
+        height: 250px;
+    }
+
+.robo{
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    border: 5px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+.robo img {
+    width: 250px;
+    height: 250px;
+}
+
+.botao {
+    position: absolute;
+    top: 50%;
+    width: 5%;
+    left: 47.5%;
+    height: 5%;
+    background-color:green;
+    border: black 2px solid;
+    font-size: 150%;
+    color:aqua;
+}
+
+.botao:hover {
+    color:aquamarine;
+}
+
+}
